@@ -1,16 +1,26 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olá, Mundo!</title>
+    <style>
+        /* Estilos CSS */
+        #hello {
+            color: blue; /* Define a cor do texto para azul */
+        }
+    </style>
+</head>
+<body>
 
-<!--
-**gilsolima/gilsolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 id="hello">Olá, Mundo!</h1>
 
-Here are some ideas to get you started:
+<script>
+    // Código JavaScript
+    // Este código JavaScript pode ser usado para adicionar interatividade à página, mas neste caso, é apenas um exemplo simples.
+    // Aqui, estamos apenas exibindo uma mensagem no console do navegador.
+    console.log("Olá, mundo!");
+</script>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
