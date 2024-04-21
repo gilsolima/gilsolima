@@ -1,26 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Olá, Mundo!</title>
-    <style>
-        /* Estilos CSS */
-        #hello {
-            color: blue; /* Define a cor do texto para azul */
-        }
-    </style>
-</head>
-<body>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
 
-<h1 id="hello">Olá, Mundo!</h1>
-
-<script>
-    // Código JavaScript
-    // Este código JavaScript pode ser usado para adicionar interatividade à página, mas neste caso, é apenas um exemplo simples.
-    // Aqui, estamos apenas exibindo uma mensagem no console do navegador.
-    console.log("Olá, mundo!");
-</script>
-
-</body>
+  </head>
+  <body>
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+  </body>
 </html>
