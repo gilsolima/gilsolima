@@ -7,6 +7,6 @@
   <body>
     <main>
     </main>
-    <script src="sketch.js"></script>
+   Seja bem vindo
   </body>
 </html>
