@@ -7,6 +7,6 @@
   <body>
     <main>
     </main>
-   Seja bem vindo
+   Seja bem vindo!
   </body>
 </html>
